@@ -6,4 +6,6 @@ Scripts for Google Earth Engine for Ocean Research.
 03 - Modis Aqua SST <p>
 04 - NOx and COVID 19 <p>
 05 - Global Fishing Efforts <p>
-06 - Bathymetry
+06 - Bathymetry <p>
+  
+  [![DOI](https://zenodo.org/badge/264895465.svg)](https://zenodo.org/badge/latestdoi/264895465)
